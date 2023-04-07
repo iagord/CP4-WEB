@@ -1,6 +1,0 @@
-let contador = 0;
-
-const contarCliques = () => {
-  contador++;
-  console.log(`Você clicou ${contador} vezes`);
-}

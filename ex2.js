@@ -68,8 +68,5 @@ const funcionariosContratados = funcionarios.filter(funcionario => {
 
 //  Criar um Reduce para somar o valor total dos descontos 
 const totalDescontos = funcionarios.reduce((acumulador, funcionario) => {
-  return acumul
-
-  const totalDescontos = funcionarios.reduce((acumulador, funcionario) => {
     return acumulfuncionario.descontos;
-}, 0);})
+}, 0); 

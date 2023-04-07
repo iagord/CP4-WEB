@@ -10,7 +10,7 @@ function verificarFaixaEtaria(idade) {
     }
   }
   
-  const idade = 26;
+  const idade = 26; //exemplo
   const faixaEtaria = verificarFaixaEtaria(idade);
   
   console.log(`Você tem ${idade} anos e é um(a) ${faixaEtaria}.`);  

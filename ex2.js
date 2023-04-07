@@ -71,4 +71,5 @@ const totalDescontos = funcionarios.reduce((acumulador, funcionario) => {
   return acumul
 
   const totalDescontos = funcionarios.reduce((acumulador, funcionario) => {
-    return acumul
+    return acumulfuncionario.descontos;
+}, 0);
